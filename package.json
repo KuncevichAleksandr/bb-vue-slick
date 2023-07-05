@@ -1,6 +1,6 @@
 {
   "name": "@bb/vue-slick",
-  "version": "1.0.7",
+  "version": "1.0.0",
   "description": "Fetch Vue Slick Carousel with corrected autoplay",
   "keywords": [
     "vue",
@@ -19,7 +19,7 @@
   "author": "https://github.com/KuncevichAleksandr",
   "repository": {
     "type": "git",
-    "url": "https://github.com/KuncevichAleksandr/bb-vue-slick.git"
+    "url": "git+https://github.com/KuncevichAleksandr/bb-vue-slick.git"
   },
   "scripts": {
     "serve": "vue-cli-service serve --open",
