@@ -1,6 +1,6 @@
 {
   "name": "@bb/vue-slick",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Fetch Vue Slick Carousel with corrected autoplay",
   "keywords": [
     "vue",
