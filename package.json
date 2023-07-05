@@ -1,7 +1,7 @@
 {
   "name": "@bb/vue-slick",
   "version": "1.0.6",
-  "description": "Vue Slick Carousel with True SSR Written for Faster Luxstay",
+  "description": "Fetch Vue Slick Carousel with corrected autoplay",
   "keywords": [
     "vue",
     "slick",
@@ -16,7 +16,7 @@
     "url": "https://github.com/KuncevichAleksandr/bb-vue-slick/issues"
   },
   "license": "MIT",
-  "author": "KyuWoo Choi <kyuwoo.choi@gmail.com> (https://kyu.io/)",
+  "author": "https://github.com/KuncevichAleksandr",
   "repository": {
     "type": "git",
     "url": "https://github.com/KuncevichAleksandr/bb-vue-slick.git"
